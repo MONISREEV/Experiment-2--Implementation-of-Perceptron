@@ -114,3 +114,6 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
+## Output
+
+![image](https://user-images.githubusercontent.com/107461059/195760332-91b383bc-a166-45b6-aa27-dd6c26a2c0cd.png)
