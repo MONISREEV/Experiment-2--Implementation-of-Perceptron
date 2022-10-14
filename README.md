@@ -115,5 +115,18 @@ plt.ylabel('Errors')
 plt.show()
 ```
 ## Output
-
+##  DF.HEAD():
 ![image](https://user-images.githubusercontent.com/107461059/195760332-91b383bc-a166-45b6-aa27-dd6c26a2c0cd.png)
+## SCATTER PLOT ( SENTOSA Vs. VERSICOLOUR ):
+![image](https://user-images.githubusercontent.com/107461059/195760804-0b8b654a-1db4-4667-9dec-e5ce1ade5dd8.png)
+## PLOT OF EPOCHS Vs. ERRORS AFTER CLASSIFICATION:
+
+![image](https://user-images.githubusercontent.com/107461059/195760910-c2a9e8a6-e890-49cf-a8a7-09587561c39c.png)
+## ACCURACY
+![image](https://user-images.githubusercontent.com/107461059/195761037-09028408-d218-45f6-b5c4-10a15063b764.png)
+## RESULT: Thus, to implement a perceptron for classification using Python is successfully executed.
+
+
+
+
+
