@@ -124,7 +124,8 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/107461059/195760910-c2a9e8a6-e890-49cf-a8a7-09587561c39c.png)
 ## ACCURACY
 ![image](https://user-images.githubusercontent.com/107461059/195761037-09028408-d218-45f6-b5c4-10a15063b764.png)
-## RESULT: Thus, to implement a perceptron for classification using Python is successfully executed.
+## RESULT: 
+Thus, to implement a perceptron for classification using Python is successfully executed.
 
 
 
